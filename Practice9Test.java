@@ -1,7 +1,5 @@
 
 public class Practice9Test {
-	
-	
 	public Practice9Test() {
 		// TODO: Need to create an instance?
 	}
@@ -90,5 +88,6 @@ public class Practice9Test {
 		Practice9Test test = new Practice9Test();
 		test.runTest();
 	}
+
 
 }
